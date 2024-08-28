@@ -1,4 +1,5 @@
 import ColorBox from './ColorBox';
+import './App.css';
 import ColorBoxGrid from './ColorBoxGrid';
 
 const colors = [
